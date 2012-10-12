@@ -1,2 +1,3 @@
 ambercane
 =========
+Hbase Java Client
